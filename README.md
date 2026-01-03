@@ -9,3 +9,8 @@ Initial repository setup.
 <!-- Update 3 -->
 
 <!-- Update 4 -->
+
+## Update 1
+
+Latest improvements and optimizations.
+
